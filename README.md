@@ -22,6 +22,12 @@ Please don't forget to comment (document) your code!👨‍💻
 
 Libraries: Install using pip👌
 
+
+
+![Python-AI-Assistant](assets/giphy.gif)
+
+
+
 import pyttsx3
 
 import speech_recognition as sr
@@ -43,6 +49,8 @@ import requests
 import subprocess
 
 import spotipy
+
+
 
 Don't forget to see the list of contributors who have participated in this project.😍
 
