@@ -1,4 +1,4 @@
-# Python-AI-Assistant
+# Mike-AI-Assistant
 Mike is a simple personal assistant which works on the CLI. He does a lot of stuff... check it down!👇
 
 Getting Started?😃
