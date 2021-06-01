@@ -1,22 +1,26 @@
 # Python-AI-Assistant
-Mike is a simple personal assistant which works on the CLI. He does a lot of stuff... check it down!
+Mike is a simple personal assistant which works on the CLI. He does a lot of stuff... check it down!👇
 
-Getting Started?
+Getting Started?😃
 
 In order to start mike just clone this repository and run it in your favorite IDE.
 
 Contributing?
 
-PRs are accepted!!
 
-Before making a PR, make sure that your code is according to standards.
-
-If you have some ideas for new features and you don't have time to implement them please open an issue with the tag: amazing_feature.
-
-Please don't forget to comment (document) your code!
+![Python-AI-Assistant](assets/giphycn.gif)
 
 
-Libraries: Install using pip
+PRs are accepted!!😀
+
+Before making a PR, make sure that your code is according to requirments.👨‍🔧
+
+If you have some ideas for new features and you don't have time to implement them please open an issue with the tag: amazing_feature.😎
+
+Please don't forget to comment (document) your code!👨‍💻
+
+
+Libraries: Install using pip👌
 
 import pyttsx3
 
@@ -40,10 +44,10 @@ import subprocess
 
 import spotipy
 
-Don't forget to see the list of contributors who have participated in this project.
+Don't forget to see the list of contributors who have participated in this project.😍
 
 
-Features:
+Features:🐱‍💻💻✨🔥
 
 
 1-Tells Date Time. 
@@ -69,3 +73,12 @@ Features:
 11-Tells you your location, 
 
 12-More features coming soon... 
+
+Bugs fix PR's Always accepted!🖐
+
+
+
+![Python-AI-Assistant](assets/giphybug.gif)
+
+
+Thanks for reading!🤝
