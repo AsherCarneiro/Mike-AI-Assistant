@@ -20,14 +20,14 @@ If you have some ideas for new features and you don't have time to implement the
 Please don't forget to comment (document) your code!👨‍💻
 
 
-Libraries: Install using pip👌
+## Libraries: Install using pip👌
 
 
 
 ![Python-AI-Assistant](assets/giphy.gif)
 
 
-
+<b>
 import pyttsx3
 
 import speech_recognition as sr
@@ -50,12 +50,13 @@ import subprocess
 
 import spotipy
 
-
-
+</b>
+<br>
 Don't forget to see the list of contributors who have participated in this project.😍
 
 
-Features:🐱‍💻💻✨🔥
+
+## Features:🐱‍💻💻✨🔥
 
 
 1-Tells Date Time. 
